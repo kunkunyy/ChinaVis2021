@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "襄都区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.507131,
+          37.064125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "信都区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.473687,
+          37.068009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "任泽区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.684469,
+          37.129952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南和区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.691377,
+          37.003812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "临城县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.506873,
+          37.444009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "内丘县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.511523,
+          37.287663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "柏乡县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.693382,
+          37.483596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "隆尧县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.776348,
+          37.350925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宁晋县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.921027,
+          37.618956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巨鹿县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.038782,
+          37.21768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "新河县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.247537,
+          37.526216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "广宗县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.142797,
+          37.075548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "平乡县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.029218,
+          37.069404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "威县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.272749,
+          36.983272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清河县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.668999,
+          37.059991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "临西县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.498684,
+          36.8642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南宫市"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.398102,
+          37.359668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沙河市"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.504902,
+          36.861903
+        ]
+      }
+    }
+  ]
+}
